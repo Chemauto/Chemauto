@@ -94,9 +94,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chemauto/Chemauto/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Chemauto/Chemauto/output/github-snake.svg" />
 </picture>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer" />
-</div>
