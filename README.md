@@ -15,9 +15,9 @@
 
 ## About Me
 
-- USTB22 MEI ROBOT & Beihang Control
-- Focusing on Robotics, Simulation, and Intelligent Control
-- Currently exploring Isaac Lab / Isaac Sim for robotics research
+- USTB22 MEI ROBOT & Beihang 2026Control
+- Focusing on Robotics,  and Intelligent Control
+- Currently exploring Isaac Lab / Isaac Sim for Robotics research,Agent for Robotics
 
 ---
 
